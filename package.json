@@ -13,6 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "chokidar": "^3.3.0",
-    "mcjson": "^1.1.2"
+    "mcjson": "^1.1.3"
   }
 }
