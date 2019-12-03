@@ -1,7 +1,8 @@
 {
   "name": "mccode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts MCCode files to minecraft-compatible files",
+  "keywords": ["minecraft", "mccode", "custom-language", "cli"],
   "main": "index.js",
   "scripts": {
     "start": "node .bin/run.js"
@@ -11,6 +12,8 @@
   },
   "author": "unnamedDE <admin@unnamedDE.tk> (https://unnamedde.tk/)",
   "license": "MIT",
+  "homepage": "https://unnamedDE.tk/",
+  "repository": "github:unnamedDE/mccode",
   "dependencies": {
     "chokidar": "^3.3.0",
     "mcjson": "^1.1.3"
